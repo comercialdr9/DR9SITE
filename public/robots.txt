@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://dr9ai.github.io/dr9ai/sitemap.xml
